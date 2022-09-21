@@ -1,11 +1,10 @@
 ---
-title: Publications
-
-# Listing view
+title: Publication 1
 view: citation
-
-# Optional banner image (relative to `assets/media/` folder).
 banner:
-  caption: ''
-  image: ''
+  caption: ""
+  image: ""
+publication_types:
+  - "2"
+date: 2022-09-21T21:46:36.441Z
 ---
