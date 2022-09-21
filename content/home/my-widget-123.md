@@ -1,6 +1,6 @@
 ---
 widget: portfolio
-widget_id: my-widget-123
+widget_id: homepage
 headless: true
 weight: 10
 title: SuperMeQ
