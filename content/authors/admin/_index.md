@@ -18,6 +18,6 @@ education:
 email: ""
 superuser: true
 user_groups:
-  - Researchers
+  - Chalmers
 highlight_name: false
 ---
