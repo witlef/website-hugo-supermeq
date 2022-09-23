@@ -1,7 +1,6 @@
 ---
 title: Gerhard Kirchmair
-role: Associate Professor
-#avatar_filename: portrait_cut_smalljpg.jpg
+role: Professor
 bio: ""
 interests: []
 social:
@@ -21,7 +20,3 @@ user_groups:
   - Researchers
 highlight_name: false
 ---
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
