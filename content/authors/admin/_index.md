@@ -1,9 +1,9 @@
 ---
 title: Witlef Wieczorek
 role: Associate Professor
-bio: My research interests include ....
-interests:
-  - Levitation
+avatar_filename: portrait_cut_smalljpg.jpg
+bio: ""
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -21,4 +21,3 @@ user_groups:
   - Researchers
 highlight_name: false
 ---
-WW ...
