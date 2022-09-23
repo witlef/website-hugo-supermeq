@@ -1,7 +1,7 @@
 ---
 title: Witlef Wieczorek
 role: Associate Professor
-avatar_filename: portrait_cut_smalljpg.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests: []
 social:
