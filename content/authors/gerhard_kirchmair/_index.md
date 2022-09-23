@@ -17,6 +17,6 @@ education:
 email: ""
 superuser: false
 user_groups:
-  - Researchers
+  - OEAW
 highlight_name: false
 ---
