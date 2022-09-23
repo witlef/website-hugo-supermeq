@@ -11,6 +11,6 @@ education:
 email: ""
 superuser: false
 user_groups:
-  - Organization
+  - Organizations
 highlight_name: false
 ---
