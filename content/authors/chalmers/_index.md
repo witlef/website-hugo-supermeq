@@ -1,7 +1,7 @@
 ---
 title: Chalmers University of Technology
 role: Coordinator
-avatar_filename: avatar.jpg
+avatar_filename: avatar.png
 bio: ""
 interests: []
 social:
