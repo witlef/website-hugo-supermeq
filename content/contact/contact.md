@@ -54,4 +54,4 @@ design:
   columns: '1'
 ---
 
-You can contact SuperMeQ's coordinator via the email stated above.
+You can contact SuperMeQ's coordinator via the email given below.
