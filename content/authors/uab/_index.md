@@ -1,5 +1,5 @@
 ---
-title: Universitat Autònoma de Barcelona
+title: Universitat Autonoma de Barcelona
 role: Partner
 avatar_filename: avatar.png
 bio: ""
