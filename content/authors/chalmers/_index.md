@@ -4,8 +4,8 @@ role: Coordinator
 avatar_filename: avatar.png
 bio: ""
 interests: []
-social:
-organizations:
+social: null
+organizations: null
 education:
   courses: []
 email: ""
@@ -14,3 +14,4 @@ user_groups:
   - Organizations
 highlight_name: false
 ---
+Chalmers is the coordinator of SuperMeQ.
