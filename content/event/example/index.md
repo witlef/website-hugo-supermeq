@@ -1,8 +1,8 @@
 ---
-abstract: 1st meeting
+abstract: SuperMeQ kick off meeting
 slides: null
 url_pdf: ""
-summary: An example event.
+summary: The project partners will meet in Barcelona to share their current research and plans within SuperMeQ.
 title: SuperMeQ Kick off meeting
 location: Barcelona UAB
 date: 2022-11-10T14:00:00.000Z
@@ -15,11 +15,11 @@ authors: []
 url_video: ""
 url_slides: ""
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
-  country: United States
+  street: UAB campus
+  city: Barcelona
+  region: 
+  postcode: 
+  country: Spain
 publishDate: 2022-09-21T21:45:15.438Z
 tags: []
 projects: null
