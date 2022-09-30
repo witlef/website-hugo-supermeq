@@ -1,5 +1,5 @@
 ---
-title: Publication dummy
+title: SuperMeQ's scientific publications
 view: citation
 banner:
   caption: ""
