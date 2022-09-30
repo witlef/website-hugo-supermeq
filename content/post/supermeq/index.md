@@ -1,6 +1,6 @@
 ---
 title: SuperMeQ starts
-date: 2022-10-01T14:56:50.581Z
+date: 2022-09-30T14:56:50.581Z
 draft: false
 featured: false
 image:
