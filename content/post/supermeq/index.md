@@ -6,6 +6,6 @@ featured: false
 image:
   filename: featured.png
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
-We are excited to say that our Horizon Europe project SuperMeQ starts Oct 1st 2022. It is a collaboration between Chalmers, Austrian Academy of Sciences, Walther Meissner Institute, Universidad Autonoma de Barcleona and Karlsruhe Institute of Technology. 
+We are excited to share that our Horizon Europe project SuperMeQ starts Oct 1st 2022. It is a collaboration between Chalmers, Austrian Academy of Sciences, Walther Meissner Institute, Universidad Autonoma de Barcelona and Karlsruhe Institute of Technology.
