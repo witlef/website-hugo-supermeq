@@ -3,7 +3,7 @@ widget: portfolio
 widget_id: homepage
 headless: true
 weight: 10
-title: SuperMeQ
+title: What is going on
 active: true
 design:
   columns: "1"
@@ -12,4 +12,4 @@ design:
     image_darken: 0
     color: "#143689"
 ---
-Hello World!
+Have a look at SuperMeQ's news, publications and events. 
