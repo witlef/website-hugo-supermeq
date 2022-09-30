@@ -12,4 +12,4 @@ design:
     image_darken: 0
     color: "#143689"
 ---
-Have a look at SuperMeQ's news, publications and events. 
+Have a look at SuperMeQ's news, publications and events here: 
