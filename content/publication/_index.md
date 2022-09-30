@@ -1,5 +1,5 @@
 ---
-title: Publication 1
+title: Publication dummy
 view: citation
 banner:
   caption: ""
